@@ -1,0 +1,9 @@
+it/cipi/esercitazione/TestService.class
+it/cipi/esercitazione/VORealObjectCommunication.class
+it/cipi/esercitazione/VOCoreCommunication.class
+it/cipi/esercitazione/ServiceListener.class
+it/cipi/esercitazione/SSSConnection.class
+it/cipi/esercitazione/utils/ConfigurationFileUtil.class
+it/cipi/esercitazione/OnReceiveNewData.class
+it/cipi/esercitazione/VORealObjectCommunicationMQTT.class
+it/cipi/esercitazione/RESTServiceConfig.class
